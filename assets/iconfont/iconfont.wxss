@@ -1,0 +1,13 @@
+@font-face {font-family: "iconfont";
+  src: url('https://at.alicdn.com/t/font_1126902_lliugoudcsg.ttf?t=1554420751602') format('truetype')
+}
+
+.iconfont {
+  font-family:"iconfont" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-down:before { content: "\e6df"; }
